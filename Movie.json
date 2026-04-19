@@ -1,0 +1,902 @@
+{
+  "categories": [
+    {
+      "id": "terbaru",
+      "title": "Terbaru di Cineplus",
+      "items": [
+        {
+          "id": "movie_001",
+          "title": "180 (2026)",
+          "description": "Ketika insiden kemarahan di jalan yang tak terduga membuat putranya berada dalam kondisi kritis, seorang ayah yang marah terjerumus ke dalam jalan gelap penuh gejolak emosi dan balas dendam.",
+          "poster": "https://image.tmdb.org/t/p/w500/9ISjrhA38HpSSGtfiCk8lpziC3K.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/iQSXJs6RbTumcwxMjCedDoK99rx.jpg",
+          "rating": 6.3,
+          "year": 2026,
+          "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+          ],
+          "country": [
+            "South Africa"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/c0B5Y3dJRXdvBjIOB3wJAB1AeXl1S0UnJA/40/480.m3u8"
+        },
+        {
+          "id": "movie_002",
+          "title": "Assassin (2025)",
+          "description": "Pada tahun 1932 di Shanghai, seorang pemimpin perlawanan dan seorang gangster bergabung untuk melenyapkan seorang ahli strategi militer Jepang. ",
+          "poster": "https://image.tmdb.org/t/p/w500/fLRCNUz3MsnC0MdhaWpw3hp4Eye.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/gZF6fDtE71Fi3AGcF0PSQAxCgE3.jpg",
+          "rating": 7.9,
+          "year": 2025,
+          "genres": [
+            "Action",
+            "Drama",
+            "History",
+            "War"
+          ],
+          "country": [
+            "China"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/Iws6LzYKHi9vY0d-dh0BHQA8BREdJkYidWhDe3IA/40/480.m3u8"
+        },
+        {
+          "id": "movie_003",
+          "title": "Balls Up (2026)",
+          "description": "Dua eksekutif pemasaran berusaha keras dan menawarkan sponsorship kondom dengan cakupan penuh yang berani pada Piala Dunia. ",
+          "poster": "https://image.tmdb.org/t/p/w500/xwvJ3WzdJ1OCuDoY8LAxBUlQyig.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/jRsjWwZzI39bTm44FNhRtiICd9k.jpg",
+          "rating": 7.7,
+          "year": 2026,
+          "genres": [
+            "Action",
+            "Comedy",
+            "Crime",
+            "Sport"
+          ],
+          "country": [
+            "United States"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cdn1.turboviplay.com/data3/69e40bf0c7561/69e40bf0c7561.m3u8"
+        },
+        {
+          "id": "movie_004",
+          "title": "The Highest Stakes (2026)",
+          "description": "Lima orang asing diundang ke hotel mewah untuk permainan poker berisiko tinggi. ",
+          "poster": "https://image.tmdb.org/t/p/w500/41BvXOzzLDZSpJ9zekmzWi8imKZ.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/r6pDlw34R6gm66f4EP7CUPlB9nd.jpg",
+          "rating": 7.8,
+          "year": 2026,
+          "genres": [
+            "Thriller"
+          ],
+          "country": [
+            "United States",
+            "United Kingdom"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/KhEuJiAKA2wxJRYnJkN7anJKf2MSPDUFDg4vE3dSZTomTX8r/40/480.m3u8"
+        },
+        {
+          "id": "movie_005",
+          "title": "The Gates (2026)",
+          "description": "Perjalanan tiga orang teman berubah menjadi menakutkan saat mereka menyaksikan pembunuhan di sebuah komunitas yang terjaga keamanannya. ",
+          "poster": "https://image.tmdb.org/t/p/w500/u6hKIlDIpRkWOqTaesDzS0EOmx6.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/1pI2Crm9YjSDbH75NZaW8FrYjs9.jpg",
+          "rating": 6.5,
+          "year": 2026,
+          "genres": [
+            "Thriller"
+          ],
+          "country": [
+            "United States"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/JRk9KzZURXFwZ1obBnISFB0gFnlzGhV5emJG/40/480.m3u8"
+        },
+        {
+          "id": "movie_006",
+          "title": "Undertone (2025)",
+          "description": "CATATAN: Jangan bingung dengan film fitur A24, Undertone yang disutradarai oleh Ian Tuason.  ",
+          "poster": "https://image.tmdb.org/t/p/w500/brNkSCLfMN51OxcsZGM5dS0EM3x.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/qXxFWyur7jFkg2aQgENcXuyYeHF.jpg",
+          "rating": 6.3,
+          "year": 2025,
+          "genres": [
+            "Horror",
+            "Sci-Fi",
+            "Thriller"
+          ],
+          "country": [
+            "Canada"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/NxYtKzcNGC8nfEV8cQV7Dwc6DQIaISh1cDROLXIGNQ/40/480.m3u8"
+        },
+        {
+          "id": "movie_007",
+          "title": "The Legend of Aang: The Last Airbender (2026)",
+          "description": "Avatar Aang, Pengendali Udara terakhir di dunia, mengetahui kekuatan kuno yang dapat menyelamatkan budayanya dari kepunahan. ",
+          "poster": "https://image.tmdb.org/t/p/w500/gPiyTLo5GGwtJl0L8TlaJF9r0KE.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/sS3zGYFPcfM5pArVNWl6qLyaSmU.jpg",
+          "rating": 8.4,
+          "year": 2026,
+          "genres": [
+            "Animation",
+            "Action",
+            "Adventure",
+            "Family",
+            "Fantasy",
+            "Mystery"
+          ],
+          "country": [
+            "United States"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/Lh0uKysdWiAjPxBhL1ElLG8ZIDwnHBklJyNafnMCYHUVPQsKCSYvHiAzRyklUjQ8/40/480.m3u8"
+        },
+        {
+          "id": "movie_008",
+          "title": "The Legend of Hei 2 (2025)",
+          "description": "Ketika sebuah serangan menghancurkan perdamaian yang rapuh antara dunia roh dan umat manusia, Hei bekerja sama dengan Luye, murid terakhir Shifu Wuxian-nya, untuk mengungkap konspirasi yang mengancam kedua dunia - dan ikatan yang telah mereka bersumpah untuk lindungi.",
+          "poster": "https://image.tmdb.org/t/p/w500/ewZaW4gXqqllOelUpS98T49z6Gl.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/rrUsh0jODStzpJcDbDvLB1Tl901.jpg",
+          "rating": 8.2,
+          "year": 2025,
+          "genres": [
+            "Animation",
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "country": [
+            "China"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/Lh0uKysdWiknOFp-bgJmandVHgsHPTseGg4RL3IAbmlzHQ/40/480.m3u8"
+        },
+        {
+          "id": "movie_009",
+          "title": "Infiltrate (2026)",
+          "description": "Di kota yang dilanda kejahatan, Agen pemerintah Lily Chen terpaksa memilih antara tugasnya dan keluarganya ketika suaminya diculik, dan dia diperas untuk membunuh penjahat tingkat tinggi untuk menyelamatkannya. ",
+          "poster": "https://image.tmdb.org/t/p/w500/8Cw8GF9wG63kF8pRRXwOx2kXGt.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/cfDHxkco8RrslL0Vk2XPTwTVFCe.jpg",
+          "rating": 8.3,
+          "year": 2026,
+          "genres": [
+            "Action"
+          ],
+          "country": [
+            "Canada"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/KxYvJykNBSA2NFp-cwJgdRU9CwoJJi8edDNFKXUJZW4/40/480.m3u8"
+        },
+        {
+          "id": "movie_010",
+          "title": "Dear Radhi (2026)",
+          "description": "Madhan berkencan satu hari dengan Radhi, seorang gadis cantik yang bekerja di spa; ",
+          "poster": "https://image.tmdb.org/t/p/w500/9m7Bq47NxPxbJrkzu3QaDiv1D1W.jpg",
+          "backdrop": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_y-N1fqpvc8qOSa8YHkErqKRq3nR0rU0CQYw6K4GZjz4N8RDzVAocvXrDnX4SZEK0eUm0h3W8RiEM79P0T3cjoEq9e3cbSIxYrRECpd5I0SXqASf1QkJ-y_xvt6JhFTj0Hhyphenhyphenz6WYxcq1gQxUdHRG55b4ldmUv8irD0oJ33H3la3IGV-LOpw98hJ6c_1M/s300/b6e2089749c711d9509da32fa73ea10d.gif",
+          "rating": 6.7,
+          "year": 2026,
+          "genres": [
+            "Drama",
+            "Romance",
+            "Thriller"
+          ],
+          "country": [
+            "India"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/Jh0oPGgLFiUqOFp-cwJgdRU9CwoJJi8eemVHKHsCY2E/40/480.m3u8"
+        },
+        {
+          "id": "movie_011",
+          "title": "Reminders of Him (2026)",
+          "description": "When Diem's custodial grandparents adamantly refuse Kenna's attempts to see her daughter, Kenna discovers unexpected compassion, and then something truer and deeper, with former NFL player and local bar owner Ledger. As their secret romance develops, so do the dangers for both of them, leading Kenna toward heartbreak and, ultimately, the hope for a second chance.",
+          "poster": "https://image.tmdb.org/t/p/w500/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/5rxEnsgriw8z065q51lrvPKYmCL.jpg",
+          "rating": 6.7,
+          "year": 2026,
+          "genres": [
+            "Drama",
+            "Romance"
+          ],
+          "country": [
+            "United States"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/MB0kJysdEjMxfB8lLh1kaHBOZBkAOzMNHQkodHoHMmxzSSo/40/480.m3u8"
+        },
+        {
+          "id": "movie_012",
+          "title": "Badass Ravikumar (2025)",
+          "description": "Waralaba Xpose kini naik ke level berikutnya dengan Himesh Reshammiya melakukan spin off dari karakter ikoniknya Ravi Kumar.",
+          "poster": "https://image.tmdb.org/t/p/w500/kqdb3ffSsyRlRjddG0XPpssy5ok.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/uw8XD7pck9LChp1QbNuTzMY7YuT.jpg",
+          "rating": 7.9,
+          "year": 2025,
+          "genres": [
+            "Action",
+            "Comedy",
+            "Music"
+          ],
+          "country": [
+            "India"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/IBktLzYKWjMjJx4nNl03Km9KeXxwVCAEABU7ExtvYmx6THp9d0g/40/480.m3u8"
+        },
+        {
+          "id": "movie_013",
+          "title": "Ustaad Bhagat Singh (2026)",
+          "description": "Seorang anak suku dibentuk oleh nilai-nilai gurunya, yang memberinya nama 'Bhagat Singh'. ",
+          "poster": "https://image.tmdb.org/t/p/w500/8n4ypYQWztEXlR8JxD0fctdKwfC.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/xVUY7fJum48tTUqiqeamousRBUX.jpg",
+          "rating": 6.7,
+          "year": 2026,
+          "genres": [
+            "Action",
+            "Comedy",
+            "Drama"
+          ],
+          "country": [
+            "India"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/Nws9LyQdWiMqMBAtNx0lMSwfIWN3SUV3bwYyDgd8CQAdGS94cUlGcic/40/480.m3u8"
+        },
+        {
+          "id": "movie_014",
+          "title": "Do Deewane Seher Mein (2026)",
+          "description": "Dua generasi milenial yang canggung secara sosial di Mumbai menemukan cinta saat berjuang dengan penerimaan diri. ",
+          "poster": "https://image.tmdb.org/t/p/w500/p8yPjT9NAH87oD9TedclRaAW7RY.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/nHrNhMQZMCMlCEO8V8xzH64IKts.jpg",
+          "rating": 6.7,
+          "year": 2026,
+          "genres": [
+            "Drama",
+            "Romance"
+          ],
+          "country": [
+            "India"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/JhdkKiAcACAsNFo_JlgzKm8VLCcrVEVxcGdaGwZyEhQdIBZ7IU4VcCdlQQ/40/480.m3u8"
+        },
+        {
+          "id": "movie_015",
+          "title": "Bhaggyolokkhi (2025)",
+          "description": "Sepasang suami istri menemukan mayat dengan koper berisi uang tunai di rumah mereka dan terjerat dalam jaringan kejahatan yang melibatkan politisi, polisi, dan pembunuh berdarah dingin. ",
+          "poster": "https://image.tmdb.org/t/p/w500/pJuplOF6dsASTzjefbzdADOPZMl.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/8bihxEWsMxD8M0yxN0KCydLyu32.jpg",
+          "rating": 7.2,
+          "year": 2025,
+          "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+          ],
+          "country": [
+            "India"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/IBAoKSIAGC0tOhwkKh1kaHBNZBkAOzMNHQkoe3oHZD5yHXg/40/480.m3u8"
+        },
+        {
+          "id": "movie_016",
+          "title": "The Super Mario Galaxy Movie (2026)",
+          "description": "Setelah menggagalkan rencana Bowser sebelumnya untuk menikahi Putri Peach, Mario dan Luigi kini menghadapi ancaman baru dalam diri Bowser Jr., yang bertekad untuk membebaskan ayahnya dari penawanan dan memulihkan warisan keluarga. ",
+          "poster": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/9Z2uDYXqJrlmePznQQJhL6d92Rq.jpg",
+          "rating": 7.9,
+          "year": 2026,
+          "genres": [
+            "Comedy",
+            "Animation",
+            "Family",
+            "Adventure",
+            "Fantasy"
+          ],
+          "country": [
+            "United States",
+            "Japan"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/MQ05KzdUGiAwOBhhJFE6OToBZCMqDx4kb2NHfnUdAR0APAURHSZEc3thT3QiUQ/40/480.m3u8"
+        },
+        {
+          "id": "movie_017",
+          "title": "Suyodhana (2026)",
+          "description": "Seorang seniman muda Foley tumbuh besar dengan mendengar suara misterius bernama Suyodhana dan sering memvisualisasikan sosok yang mirip Duryodhana. ",
+          "poster": "https://image.tmdb.org/t/p/w500/s56x3fGTN6J1jbBMBDnLY7t4iyU.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/tXierBtxb2u3XwwTeU1NnEjnkb9.jpg",
+          "rating": 6.6,
+          "year": 2026,
+          "genres": [
+            "Drama",
+            "Mystery",
+            "Thriller"
+          ],
+          "country": [
+            "India"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/MQ0wISERFi8jfEV8cQZ7Dwc6DQIaISh3c2BGKHBTNQ/40/480.m3u8"
+        },
+        {
+          "id": "movie_018",
+          "title": "Assi (2026)",
+          "description": "Rebecca Owens, lulusan ilmu kamar mayat baru-baru ini mengambil pekerjaan shift malam di Kamar Mayat River Fields. ",
+          "poster": "https://image.tmdb.org/t/p/w500/72AoFPC5TY4DfJwXXS9rPwPeReD.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/gM1kQRPwOVW1Eos5tVWqcYmHR5S.jpg",
+          "rating": 7.4,
+          "year": 2026,
+          "genres": [
+            "Drama"
+          ],
+          "country": [
+            "India"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/Iws6J2hLR3N0fCAJAXQaBxoncXxxH0B3c2M/40/480.m3u8"
+        },
+        {
+          "id": "movie_019",
+          "title": "Border 2 (2026)",
+          "description": "Tiga tentara idealis di angkatan darat, laut, dan udara India menghadapi kondisi pertempuran yang melelahkan dalam film yang berlatar perang Indo-Pak tahun 1971 ini.",
+          "poster": "https://image.tmdb.org/t/p/w500/wUcttG71zo9deP4m9sDhYPUcvi5.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/fzo85eKFEjfmJ781gubJQjpQAwF.jpg",
+          "rating": 7.4,
+          "year": 2026,
+          "genres": [
+            "Action",
+            "Drama",
+            "War"
+          ],
+          "country": [
+            "India"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/IBc7KiALWnNvY0d-dR0BHQA8BREdJk8kdzcSeCBT/40/480.m3u8"
+        },
+        {
+          "id": "movie_020",
+          "title": "Border (1997)",
+          "description": "Di tengah perang Indo-Pak tahun 1971, sebuah kompi yang terdiri dari 120 tentara India yang ditempatkan di wilayah perbatasan Longewala di Rajasthan harus mempertahankan pos mereka sepanjang malam melawan dua ribu tentara Pakistan yang dipersenjatai tank. ",
+          "poster": "https://image.tmdb.org/t/p/w500/vYih9kPSCh6CrJsZFWugXOY0ySj.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/zawV2nF32ajisU7GG0M0mINTXpY.jpg",
+          "rating": 8.4,
+          "year": 1997,
+          "genres": [
+            "Action",
+            "Drama",
+            "History",
+            "War"
+          ],
+          "country": [
+            "India"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/IBc7KiALWnB7aEBhFHUUHA4nEREkThUncTQSfg/40/480.m3u8"
+        },
+        {
+          "id": "movie_021",
+          "title": "Engel & Joe (2001)",
+          "description": "Kisah cinta seorang punk-rocker berusia 17 tahun dan seorang gadis pelarian berusia 15 tahun.",
+          "poster": "https://image.tmdb.org/t/p/w500/zcMfPbVEm58E9CCUbabYEwlHGC6.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/3AizwQluvjzFRP5o8MYvHxh14A9.jpg",
+          "rating": 8.2,
+          "year": 2001,
+          "genres": [
+            "Drama",
+            "Romance"
+          ],
+          "country": [
+            "Germany"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/JxYuKylUHS4nfEV8cwF7Dwc6DQIaISh2cGZDKXpVYw/40/480.m3u8"
+        },
+        {
+          "id": "movie_022",
+          "title": "Blood Brothers (2017)",
+          "description": "Lyle dan Eric Menendez adalah anak laki-laki yang baik dan berpendidikan dari Beverly Hills, yang membuat pembunuhan orang tua mereka semakin tidak bisa dijelaskan. ",
+          "poster": "https://image.tmdb.org/t/p/w500/xK9Yb6Zr9TbCTsMxkB1xheZoaZP.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/7koiUiubldbRGNuXf2jJgj9P8Hz.jpg",
+          "rating": 6.3,
+          "year": 2017,
+          "genres": [
+            "Drama",
+            "Thriller"
+          ],
+          "country": [
+            "United States"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/IBQmISFUFTMtJR8pMUN7anJJfmMSPDUFDg4vEydUYD0mTC8v/40/480.m3u8"
+        },
+        {
+          "id": "movie_023",
+          "title": "All Styles (2018)",
+          "description": "Berjuang Di tahun pertamanya di perguruan tinggi, Brandon mencoba untuk fokus pada studinya tetapi tetap sampai pada kesimpulan yang sama: menari adalah hasratnya. ",
+          "poster": "https://image.tmdb.org/t/p/w500/nHwGKBD6YneE1gejRP4X2z4gZWM.jpg",
+          "backdrop": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_y-N1fqpvc8qOSa8YHkErqKRq3nR0rU0CQYw6K4GZjz4N8RDzVAocvXrDnX4SZEK0eUm0h3W8RiEM79P0T3cjoEq9e3cbSIxYrRECpd5I0SXqASf1QkJ-y_xvt6JhFTj0Hhyphenhyphenz6WYxcq1gQxUdHRG55b4ldmUv8irD0oJ33H3la3IGV-LOpw98hJ6c_1M/s300/b6e2089749c711d9509da32fa73ea10d.gif",
+          "rating": 7.7,
+          "year": 2018,
+          "genres": [
+            "Drama",
+            "Family"
+          ],
+          "country": [
+            "United States"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/IxQlYzYNDi0nIlp-cwFudRU9CwoJJi8edWZFeyAFb20/40/480.m3u8"
+        },
+        {
+          "id": "movie_024",
+          "title": "Son Of (2026)",
+          "description": "Seorang anak yang berhak menuntut ayahnya karena mengabaikan tugasnya. ",
+          "poster": "https://image.tmdb.org/t/p/w500/fQGZgfMgSc2x2h2sKlh5KEPQh7b.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/5aqBRax2svn3zRQd6VTq1xXj9MI.jpg",
+          "rating": 6.5,
+          "year": 2026,
+          "genres": [
+            "Drama"
+          ],
+          "country": [
+            "India"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/MRcnY3dJRXdvBjIOB3wJAB0ae3Z2HEcgIA/40/480.m3u8"
+        },
+        {
+          "id": "movie_025",
+          "title": "All You Need Is Kill (2025)",
+          "description": "Ketika bunga alien raksasa yang dikenal sebagai \"Darol\" tiba-tiba meletus dalam peristiwa mematikan, melepaskan makhluk mengerikan yang membinasakan populasi Jepang, Rita terjebak dalam kehancuran—dan terbunuh. ",
+          "poster": "https://image.tmdb.org/t/p/w500/kznh3ACnXYVyyAYes7JN6i1wy2d.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/4YWX4mRcIFxxtKGJaBlLPhuTMtx.jpg",
+          "rating": 6.9,
+          "year": 2025,
+          "genres": [
+            "Animation",
+            "Action",
+            "Sci-Fi"
+          ],
+          "country": [
+            "Japan"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/IxQlYzwWAmwsNBIobls_NC5Ve353TFoWBxMzABxoCWl3HSwvdRtA/40/480.m3u8"
+        },
+        {
+          "id": "movie_026",
+          "title": "Sunset Sunrise (2025)",
+          "description": "Pada tahun 2020, dunia terpaksa melakukan lockdown karena pandemi COVID. ",
+          "poster": "https://image.tmdb.org/t/p/w500/9NxOPBJPX5q0J8qpOGQ5U7lSL4u.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/5V0KprB8sFlcxSri1qLkoSAM9jr.jpg",
+          "rating": 8.4,
+          "year": 2025,
+          "genres": [
+            "Drama"
+          ],
+          "country": [
+            "Japan"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/MQ0nPSANWjI3PwUlMFV7anJKfGMSPDUFDg4vE3QBNz4nSH56/40/480.m3u8"
+        },
+        {
+          "id": "movie_027",
+          "title": "My Fathers Shadow (2025)",
+          "description": "Dua adik laki-laki menjelajahi Lagos bersama ayah mereka yang terasing saat krisis pemilu Nigeria tahun 1993, menyaksikan besarnya kota tersebut dan perjuangan ayah mereka sehari-hari ketika kerusuhan politik mengancam perjalanan pulang mereka.",
+          "poster": "https://image.tmdb.org/t/p/w500/aF8AFFh3LJpF8An0KUM8SdTwfVt.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/sv12y5tWaE4seAy53tMbCapvSE3.jpg",
+          "rating": 8.1,
+          "year": 2025,
+          "genres": [
+            "Drama"
+          ],
+          "country": [
+            "United Kingdom",
+            "Nigeria",
+            "Ireland"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/LwFkKCQNHyQwIlo_K1EyNzVVe353TFoWBxMzABxoCTwhGS95JEAW/40/480.m3u8"
+        },
+        {
+          "id": "movie_028",
+          "title": "Tyson Fury vs. Arslanbek Makhmudov (2026)",
+          "description": "Tyson Fury kembali. ",
+          "poster": "https://image.tmdb.org/t/p/w500/lBVo6FINC1SHzu6TY2UdWqQNJkT.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/iBtFnCFzBcuztLnnpYGBSC43bS7.jpg",
+          "rating": 7.8,
+          "year": 2026,
+          "genres": [
+            "Sport"
+          ],
+          "country": [
+            "United States"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/NgE6IStUETQwKFo6MB03KjEUKCAnHBxsLzAcJC5FMjc0VXt-d09aFgcTMwAcaAk7Jkh_f31JQw/40/480.m3u8"
+        },
+        {
+          "id": "movie_029",
+          "title": "Jack and Ava (2024)",
+          "description": "Jack adalah seorang yatim piatu. ",
+          "poster": "https://image.tmdb.org/t/p/w500/5e9xEQffipivigV1sSNrn9c15hS.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/mqqbFaV5FPi72pQPVmAM3JcfxNx.jpg",
+          "rating": 7.6,
+          "year": 2024,
+          "genres": [
+            "Crime",
+            "Thriller"
+          ],
+          "country": [
+            "United States"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/KBkqJWgYASBvY0d-dx0BHQA8BREdJkd0IzcSKHVU/40/480.m3u8"
+        },
+        {
+          "id": "movie_030",
+          "title": "Savior (2025)",
+          "description": "Iblis kuno terlahir kembali setelah seratus tahun, berniat menyatukan tiga alam di bawah kekuasaannya. ",
+          "poster": "https://image.tmdb.org/t/p/w500/lk86c9cmNCXKX44jhDQpcRzK3Gp.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/zx9UkWB6M3O0UiHaYgjWvalYj3y.jpg",
+          "rating": 6.9,
+          "year": 2025,
+          "genres": [
+            "Horror",
+            "Mystery",
+            "Thriller"
+          ],
+          "country": [
+            "South Korea"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/MRk_JyoLWnNyY0JhFHUUHA4nERF2HEcgJjJHeQ/40/480.m3u8"
+        },
+        {
+          "id": "movie_031",
+          "title": "Gandhi Talks (2026)",
+          "description": "Sebuah komedi hitam bisu, tentang kebutuhan moneter seorang karakter & bagaimana hal itu berdampak pada orang lain. ",
+          "poster": "https://image.tmdb.org/t/p/w500/p4iQT3s97T3gQOLhTj0UplzYMOj.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/4Cqad6ZpWJRhBumGE1QwHs9pVuB.jpg",
+          "rating": 8.4,
+          "year": 2026,
+          "genres": [
+            "Comedy",
+            "Drama"
+          ],
+          "country": [
+            "India"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/JRknKi0QWjUjPRw_bgJmanRVHgsHPTseGg4UfidWZGlyGw/40/480.m3u8"
+        },
+        {
+          "id": "movie_032",
+          "title": "The Draw (2025)",
+          "description": "Di dunia yang menindas, di mana keinginan bebas sudah menjadi masa lalu, semua gambaran analog dibatasi dan digantikan oleh teknologi baru yang disebut ‘The EyeLight’. ",
+          "poster": "https://image.tmdb.org/t/p/w500/2DTNoauIFUUOdYjJYfLL6Slh21Q.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/mFeNzfGkizDCcipXfTaJBHuuqOp.jpg",
+          "rating": 7.0,
+          "year": 2025,
+          "genres": [
+            "Sci-Fi",
+            "Thriller"
+          ],
+          "country": [
+            "United Kingdom"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/JgooOWhLR3N3fCAJAXQaBxonKC11Gk8idWQ/40/480.m3u8"
+        },
+        {
+          "id": "movie_033",
+          "title": "Teachers Pet (2025)",
+          "description": "Robin, seorang siswa muda, terobsesi dengan Tanya, gurunya. ",
+          "poster": "https://image.tmdb.org/t/p/w500/4Src1CauYChl4iPiMjSFzeTRBrN.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/88bAYiMbHXyt2YZW01A7ebq7tj2.jpg",
+          "rating": 7.8,
+          "year": 2025,
+          "genres": [
+            "Thriller"
+          ],
+          "country": [
+            "United States"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/Nh0oLS0cBTJvIRI4bgJmandVHgsHPTseGg5AeycAYmtzTg/40/480.m3u8"
+        },
+        {
+          "id": "movie_034",
+          "title": "The Lord of the Rings: The Return of the King (2003)",
+          "description": "Saat pasukan berkumpul untuk pertempuran terakhir yang akan menentukan nasib dunia--dan kekuatan kuno Terang dan Gelap yang kuat bersaing untuk menentukan hasilnya--salah satu anggota Persekutuan Cincin terungkap sebagai pewaris mulia takhta Raja Manusia. ",
+          "poster": "https://image.tmdb.org/t/p/w500/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/2u7zbn8EudG6kLlBzUYqP8RyFU4.jpg",
+          "rating": 7.6,
+          "year": 2003,
+          "genres": [
+            "Adventure",
+            "Drama",
+            "Fantasy"
+          ],
+          "country": [
+            "New Zealand",
+            "United States"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/Lhc7KmgLHi8lIlo-JkQjKixVIicrHlpzcmFEYRR1FBwOJxERd0EVcSBkRSk/40/480.m3u8"
+        },
+        {
+          "id": "movie_035",
+          "title": "The Lord of the Rings: The Two Towers (2002)",
+          "description": "Frodo Baggins dan anggota Fellowship lainnya melanjutkan pencarian suci mereka untuk menghancurkan Cincin Utama--tetapi di jalur yang berbeda. ",
+          "poster": "https://image.tmdb.org/t/p/w500/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/kWYfW2Re0rUDE6IHhy4CRuKWeFr.jpg",
+          "rating": 6.9,
+          "year": 2002,
+          "genres": [
+            "Adventure",
+            "Fantasy"
+          ],
+          "country": [
+            "United States",
+            "New Zealand"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/Lhc7KmgLHi8lIlo4NF97LC0PLDw2VEVxcmNaGwZyEhQdIBYqdxgRcHdpTg/40/480.m3u8"
+        },
+        {
+          "id": "movie_036",
+          "title": "The Lord of the Rings: The Fellowship of the Ring (2001)",
+          "description": "Hobbit muda Frodo Baggins, setelah mewarisi cincin misterius dari pamannya Bilbo, harus meninggalkan rumahnya agar cincin itu tidak jatuh ke tangan pencipta jahatnya. ",
+          "poster": "https://image.tmdb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/a0lfia8tk8ifkrve0Tn8wkISUvs.jpg",
+          "rating": 7.7,
+          "year": 2001,
+          "genres": [
+            "Adventure",
+            "Fantasy"
+          ],
+          "country": [
+            "United States",
+            "New Zealand"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/NhAsYykWBSVvPhFhN1gzdTARJyk2VAMpJ3wRKS9cOS8xECA-aBYRbDY5EmExWTg_b0p5fnRUIAQAFTsTG29vOyEZKncnQA/40/480.m3u8"
+        },
+        {
+          "id": "movie_037",
+          "title": "Gadar: Ek Prem Katha (2001)",
+          "description": "Selama perpisahan, Tara menikahi Sakina dan mereka menjalani hidup bahagia. ",
+          "poster": "https://image.tmdb.org/t/p/w500/yItg48ViirZHWmuD15reEyMfr4x.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/wXkRuEAWXtoivVcLt9T47NkOlHw.jpg",
+          "rating": 8.2,
+          "year": 2001,
+          "genres": [
+            "Action",
+            "Drama",
+            "Romance"
+          ],
+          "country": [
+            "India"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/JRktLzdUEipvIQUpLh09OTYQKGN3SUdwbwYyDgd8CQAdS38tI0EWeXQ/40/480.m3u8"
+        },
+        {
+          "id": "movie_038",
+          "title": "Match Fixing (2025)",
+          "description": "Perang rahasia pun terjadi. ",
+          "poster": "https://image.tmdb.org/t/p/w500/szmEGYLFC7caihW0qrOoWgcMn5c.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/87ZUdRVa2WzZqtOceYrbLIg5uy.jpg",
+          "rating": 8.3,
+          "year": 2025,
+          "genres": [
+            "Drama",
+            "Sport"
+          ],
+          "country": [
+            "India"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/Lxk9LS1UESg6OBkrbgJmandVHgsHPTseGg4Rf3pSMjt6Gw/40/480.m3u8"
+        },
+        {
+          "id": "movie_039",
+          "title": "37: The Shadow and the Prey (2024)",
+          "description": "Vincent, seorang sopir truk, menjemput seorang wanita muda yang sedang hamil. ",
+          "poster": "https://image.tmdb.org/t/p/w500/xtiApujoWBgX9WzmucFtySDp9NN.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/nF8r2UoS05ltpLRHbKa4a5os9gC.jpg",
+          "rating": 6.6,
+          "year": 2024,
+          "genres": [
+            "Thriller"
+          ],
+          "country": [
+            "France"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/cU9kPS0YEy41fAc-Jkl7anJKfWMSPDUFDg4vE3JTbz1wS39_/40/480.m3u8"
+        },
+        {
+          "id": "movie_040",
+          "title": "I Can Only Imagine 2 (2026)",
+          "description": "Menyusul kesuksesan luar biasa dari lagu 'I Can Only Imagine', Bart Millard dari MercyMe mewujudkan mimpinya—arena yang terjual habis, basis penggemar setia, dan karier yang berkembang. ",
+          "poster": "https://image.tmdb.org/t/p/w500/A4A8YgAzBwDnlXDzuxoc5ZLchO7.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/qHBnPZA3J6hSl9a3Q1JAQzDeo2L.jpg",
+          "rating": 6.2,
+          "year": 2026,
+          "genres": [
+            "Drama"
+          ],
+          "country": [
+            "United States"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/K1UqLytUGC8uKFolLlExMSwdZHxoS0dzdHwgCQF0GgcaJ3kvcUsUdXA3/40/480.m3u8"
+        },
+        {
+          "id": "movie_041",
+          "title": "Rabisu (2026)",
+          "description": "Sekelompok pemburu paranormal mengejar petunjuk untuk sebuah guci yang menyimpan roh kuno. ",
+          "poster": "https://image.tmdb.org/t/p/w500/humREhRcM1ahsuoW7WPyNFhZn5i.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/4gCf5Z0PEH5dkBtVySYnU2uVN77.jpg",
+          "rating": 6.2,
+          "year": 2026,
+          "genres": [
+            "Horror"
+          ],
+          "country": [
+            "United States"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/MBkrJzYMWnNyY0FhFHUUHA4nEREjTxJ2JmIULQ/40/480.m3u8"
+        },
+        {
+          "id": "movie_042",
+          "title": "Kadhal Kadhai Sollava (2026)",
+          "description": "Kisah ini menceritakan tentang \"Micheal And Shreya\" yang berpartisipasi dalam Program yang Dilakukan oleh Aktor Vijaysethupathi melalui FM \"Kadhal Kadhai Sollava\"",
+          "poster": "https://image.tmdb.org/t/p/w500/5bnBIP6brIVCOgQ6D4lIQ6CbUvs.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/6zwziT2NgTXDFe8BsmvJGlYonsZ.jpg",
+          "rating": 7.5,
+          "year": 2026,
+          "genres": [
+            "Drama"
+          ],
+          "country": [
+            "India"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/KRktJiQVWiojNR8tKh0lNy4UKDgkVEVxcGdaGwZyEhQdIBYqch1EIndhTg/40/480.m3u8"
+        },
+        {
+          "id": "movie_043",
+          "title": "Protector (2025)",
+          "description": "Seorang detektif menyelidiki kematian misterius di rumah Manakkal Tharavadu di desa Airavathakkuzhi, di mana penduduk setempat takut akan hantu jahat. ",
+          "poster": "https://image.tmdb.org/t/p/w500/8L9SFfRmtQj6bvKWzm36xmBzT3f.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/onxTCFGVrqVTddBVYRVOVWrFQHM.jpg",
+          "rating": 6.6,
+          "year": 2025,
+          "genres": [
+            "Action",
+            "Crime",
+            "Drama",
+            "Fantasy",
+            "Horror",
+            "Mystery",
+            "Thriller"
+          ],
+          "country": [
+            "United States"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/MgomOiAaAy4wfEV8cQV7aW8vDAwBNSgZHTUVfnMAMGwh/40/480.m3u8"
+        },
+        {
+          "id": "movie_044",
+          "title": "Camila Comes Out Tonight (2021)",
+          "description": "Ketika neneknya sakit parah, Camila terpaksa pindah ke Buenos Aires, meninggalkan sekolah menengah negeri liberal untuk pindah ke lembaga swasta tradisional yang skolastik. ",
+          "poster": "https://image.tmdb.org/t/p/w500/mUb3LM35HDAHLrD6FId6kGSP0EO.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/scQKj7ul1TW37J0kpDFS0WdTFqA.jpg",
+          "rating": 6.4,
+          "year": 2021,
+          "genres": [
+            "Drama"
+          ],
+          "country": [
+            "Argentina"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/IRkkJykYWiItPBI_bl8jLG8MJiAsHh81b2NHfnIdAR0APAURHSZGcnUwEignUg/40/480.m3u8"
+        },
+        {
+          "id": "movie_045",
+          "title": "18th Rose (2026)",
+          "description": "Seorang remaja penuh semangat yang memimpikan debut sempurna membuat kesepakatan dengan pendatang baru yang kesepian, namun perasaan dan wahyu tak terduga dapat menghancurkan rencana mereka.",
+          "poster": "https://image.tmdb.org/t/p/w500/6pUwaXT6tdA6sek8o6SdFYudJDj.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/2jmgIPB17SdKCpoH6GS4jultoC5.jpg",
+          "rating": 6.7,
+          "year": 2026,
+          "genres": [
+            "Drama",
+            "Romance"
+          ],
+          "country": [
+            "Philippines"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/c0A9JmgLGDInfEV8cQZ7Dwc6DQIaISgldWNFfScFbg/40/480.m3u8"
+        },
+        {
+          "id": "movie_046",
+          "title": "Project Hail Mary (2026)",
+          "description": "Guru sains Ryland Grace terbangun di pesawat luar angkasa yang berjarak beberapa tahun cahaya dari rumah tanpa ingat siapa dia atau bagaimana dia sampai di sana. ",
+          "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+          "rating": 6.0,
+          "year": 2026,
+          "genres": [
+            "Adventure",
+            "Comedy",
+            "Sci-Fi"
+          ],
+          "country": [
+            "United States"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/MgomJCAaA2wqMB4gbl03KjtVe353T1oWBxMzABxoCTt2Giosck5A/40/480.m3u8"
+        },
+        {
+          "id": "movie_047",
+          "title": "A Distant Neighbourhood (2010)",
+          "description": "Film A Distant Neighbourhood (2010) merupakan sebuah karya sinema yang menarik untuk ditonton. Menceritakan kisah yang penuh dengan emosi dan petualangan yang akan membawa penonton pada pengalaman menonton yang tak terlupakan.",
+          "poster": "https://via.placeholder.com/500x750/1a1a1a/ffffff?text=A+Distant+Neighbourhood+(2010)",
+          "backdrop": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_y-N1fqpvc8qOSa8YHkErqKRq3nR0rU0CQYw6K4GZjz4N8RDzVAocvXrDnX4SZEK0eUm0h3W8RiEM79P0T3cjoEq9e3cbSIxYrRECpd5I0SXqASf1QkJ-y_xvt6JhFTj0Hhyphenhyphenz6WYxcq1gQxUdHRG55b4ldmUv8irD0oJ33H3la3IGV-LOpw98hJ6c_1M/s300/b6e2089749c711d9509da32fa73ea10d.gif",
+          "rating": 7.9,
+          "year": 2010,
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Fantasy"
+          ],
+          "country": [
+            "Belgium",
+            "France",
+            "Germany"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/JhE6OiQXA2wsNB4rK1I5LTAQJiEhVEVxc2FaGwZyEhQdIBZ7c09HcSRhEw/40/480.m3u8"
+        },
+        {
+          "id": "movie_048",
+          "title": "Sheng Wang: Purple (2026)",
+          "description": "Sheng Wang berbagi pemikirannya tentang bra yang bisa dimakan, menantang hantu di rumah Anda, dan menjaga buah beri mahal dari anak-anak teman Anda.",
+          "poster": "https://image.tmdb.org/t/p/w500/6BKDUcNi9blIZDXRaHZAL7OkwP1.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/6qywp22WDIY6sAzD6WpOgf4osml.jpg",
+          "rating": 6.6,
+          "year": 2026,
+          "genres": [
+            "Comedy"
+          ],
+          "country": [
+            "United States"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/MRAsICJUACAsNlo8NkImNCdVe353T1oWBxMzABxoCWghHnt-IEEU/40/480.m3u8"
+        }
+      ]
+    }
+  ]
+}
